@@ -9,4 +9,4 @@ Dedicated to Professor Farley Chery.
  * Kareem Thompson
  * Cameron Merkh
  
- ## Compatible with Unity version 2020.1.15f1
+Compatible with Unity version 2020.1.15f1
