@@ -1,3 +1,5 @@
+![Game Screenshot](Screenshot.jpg)
+
 # Farleys-Angels
 
 Dedicated to Professor Farley Chery.
@@ -12,5 +14,3 @@ Dedicated to Professor Farley Chery.
  * Cameron Merkh
  
 Compatible with Unity version 2020.1.15f1
-
-![Game Screenshot](Screenshot.jpg)
