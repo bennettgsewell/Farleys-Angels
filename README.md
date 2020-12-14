@@ -1,5 +1,7 @@
 # Farleys-Angels
 
+Dedicated to Professor Farley Chery.
+
 ## A Unity game made by
  * Gregory Westland
  * Bennett Sewell
